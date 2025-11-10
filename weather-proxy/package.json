@@ -1,0 +1,6 @@
+{
+  "name": "weather-proxy",
+  "version": "1.0.0",
+  "description": "Vercel serverless proxy for query.asilu.com weather API",
+  "license": "MIT"
+}
